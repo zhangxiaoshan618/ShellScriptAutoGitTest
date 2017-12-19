@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  ShellScriptAutoGitTest
+
+  Created by 张晓珊 on 2017/12/19.
+  Copyright © 2017年 张晓珊. All rights reserved.
+*/
+
+"labelValue" = "This is a english.";
