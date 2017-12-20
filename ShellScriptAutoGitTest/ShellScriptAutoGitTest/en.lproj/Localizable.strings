@@ -6,4 +6,7 @@
   Copyright © 2017年 张晓珊. All rights reserved.
 */
 
-"labelValue" = "This is a english.";
+"labelValue" = "这是简体字。";
+"label1Value" = "这是新添加的简体字。";
+"label2Value" = "这是多个文件复制的测试。";
+"label3Value" = "这是脚本测试。";

@@ -6,4 +6,7 @@
   Copyright © 2017年 张晓珊. All rights reserved.
 */
 
-"labelValue" = "这是简体字。";
+"labelValue" = "This is a english.";
+"label1Value" = "This is add.";
+"label2Value" = "This is a test of files.";
+"label3Value" = "This is a test of script.";
